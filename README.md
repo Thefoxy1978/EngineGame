@@ -16,8 +16,4 @@ Animations and Visuals: Implemented animations to enhance player experience, cre
 
 ---------------------
 
-Original git:
-
-Video: TO DO
-
-Exe: TO DO
+Video: (https://www.youtube.com/watch?v=AN6CTy9GKRg)
