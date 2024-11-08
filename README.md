@@ -16,4 +16,5 @@ Animations and Visuals: Implemented animations to enhance player experience, cre
 
 ---------------------
 
-Video: (https://www.youtube.com/watch?v=AN6CTy9GKRg)
+Video: https://www.youtube.com/watch?v=AN6CTy9GKRg
+EXE: [Here](https://github.com/Thefoxy1978/EngineGame/releases/tag/Indie)
