@@ -1,0 +1,348 @@
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe.config
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\aiv-fast2d.dll
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\OpenTK.dll
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\OpenTK.pdb
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\OpenTK.xml
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csprojAssemblyReference.cache
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.CoreCompileInputs.cache
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.CopyComplete
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\MyAssets\aivBG.png
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\MyAssets\blueLaser.png
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\MyAssets\comics.png
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\MyAssets\enemy_ship.png
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\MyAssets\fireGlobe.png
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\MyAssets\gameOverBg.png
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\MyAssets\greenGlobe.png
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\MyAssets\loadingBar_bar.png
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\MyAssets\loadingBar_frame.png
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\MyAssets\player_ship.png
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\MyAssets\powerUp_battery.png
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\MyAssets\powerUp_triple.png
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\MyAssets\redEnemy_ship.png
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\MyAssets\spaceBg.png
+C:\Users\daven\Desktop\Aiv.Fast2D.Component\Aiv.Fast2D.Component\bin\Debug\MyAssets\textSheet.png
+C:\Users\daven\Desktop\AivComponent - Input\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csprojAssemblyReference.cache
+C:\Users\daven\Desktop\AivComponent - Input\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.CoreCompileInputs.cache
+C:\Users\daven\Desktop\AivComponent - Input\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AivComponent - Input\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\AivComponent - Input\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe.config
+C:\Users\daven\Desktop\AivComponent - Input\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AivComponent - Input\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\AivComponent - Input\Aiv.Fast2D.Component\bin\Debug\aiv-fast2d.dll
+C:\Users\daven\Desktop\AivComponent - Input\Aiv.Fast2D.Component\bin\Debug\OpenTK.dll
+C:\Users\daven\Desktop\AivComponent - Input\Aiv.Fast2D.Component\bin\Debug\OpenTK.pdb
+C:\Users\daven\Desktop\AivComponent - Input\Aiv.Fast2D.Component\bin\Debug\OpenTK.xml
+C:\Users\daven\Desktop\AivComponent - Input\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.CopyComplete
+C:\Users\daven\Desktop\AivComponent - FSM\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csprojAssemblyReference.cache
+C:\Users\daven\Desktop\AivComponent - FSM\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.CoreCompileInputs.cache
+C:\Users\daven\Desktop\AivComponent - FSM\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AivComponent - FSM\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\AivComponent - FSM\Aiv.Fast2D.Component\bin\Debug\MyAssets\enemy_ship.png
+C:\Users\daven\Desktop\AivComponent - FSM\Aiv.Fast2D.Component\bin\Debug\MyAssets\player_ship.png
+C:\Users\daven\Desktop\AivComponent - FSM\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe.config
+C:\Users\daven\Desktop\AivComponent - FSM\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AivComponent - FSM\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\AivComponent - FSM\Aiv.Fast2D.Component\bin\Debug\aiv-fast2d.dll
+C:\Users\daven\Desktop\AivComponent - FSM\Aiv.Fast2D.Component\bin\Debug\OpenTK.dll
+C:\Users\daven\Desktop\AivComponent - FSM\Aiv.Fast2D.Component\bin\Debug\OpenTK.pdb
+C:\Users\daven\Desktop\AivComponent - FSM\Aiv.Fast2D.Component\bin\Debug\OpenTK.xml
+C:\Users\daven\Desktop\AivComponent - FSM\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.CopyComplete
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csprojAssemblyReference.cache
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.CoreCompileInputs.cache
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\bin\Debug\MyAssets\bg_0.png
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\bin\Debug\MyAssets\bg_1.png
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\bin\Debug\MyAssets\bg_2.png
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\bin\Debug\MyAssets\bg_3.png
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\bin\Debug\MyAssets\comics.png
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\bin\Debug\MyAssets\earthGrass.png
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\bin\Debug\MyAssets\greenGlobe.png
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\bin\Debug\MyAssets\Link_Sheet.png
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\bin\Debug\MyAssets\loadingBar_bar.png
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\bin\Debug\MyAssets\loadingBar_frame.png
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\bin\Debug\MyAssets\player.png
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\bin\Debug\MyAssets\sky.png
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\bin\Debug\MyAssets\stone.png
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\bin\Debug\MyAssets\textSheet.png
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe.config
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\bin\Debug\aiv-fast2d.dll
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\bin\Debug\OpenTK.dll
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\bin\Debug\OpenTK.pdb
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\bin\Debug\OpenTK.xml
+C:\Users\daven\Desktop\AivComponent - Bulletz\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.CopyComplete
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\MyAssets\comics.png
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\MyAssets\enemy_0.png
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\MyAssets\enemy_1.png
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\MyAssets\fireball.png
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\MyAssets\heart.png
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\MyAssets\hex_grid_green.png
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\MyAssets\Levels\crate.png
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\MyAssets\Levels\earth.png
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\MyAssets\Levels\earthGrass.png
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\MyAssets\Levels\stone.png
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\MyAssets\loadingBar_bar.png
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\MyAssets\loadingBar_frame.png
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\MyAssets\player_1.png
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\MyAssets\player_2.png
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\MyAssets\textSheet.png
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe.config
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\aiv-fast2d.dll
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\OpenTK.dll
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\OpenTK.pdb
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\bin\Debug\OpenTK.xml
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csprojAssemblyReference.cache
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.CoreCompileInputs.cache
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.CopyComplete
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AivComponent - Heads\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\MyAssets\bg_cartoon.jpg
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\MyAssets\crate.png
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\MyAssets\loadingBar_bar.png
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\MyAssets\loadingBar_frame.png
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\MyAssets\MySounds\background.wav
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\MyAssets\MySounds\bulletExplosion.wav
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\MyAssets\MySounds\cannonShoot.wav
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\MyAssets\MySounds\wood_crack_1.ogg
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\MyAssets\tanks_tankGreen_body1.png
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\MyAssets\tanks_tankTracks1.png
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\MyAssets\tanks_turret2.png
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\MyAssets\tank_bullet1.png
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\MyAssets\tank_bullet3.png
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\MyAssets\textSheet.png
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe.config
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\aiv-fast2d.dll
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\OpenTK.dll
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\OpenTK.pdb
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\OpenTK.xml
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csprojAssemblyReference.cache
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.CoreCompileInputs.cache
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.CopyComplete
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\aiv-audio.dll
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\NVorbis.dll
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\System.ValueTuple.dll
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\NVorbis.xml
+C:\Users\daven\Desktop\AivComponent - Tankz\Aiv.Fast2D.Component\bin\Debug\System.ValueTuple.xml
+C:\Users\daven\Desktop\AivComponent - TestEventi\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe.config
+C:\Users\daven\Desktop\AivComponent - TestEventi\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AivComponent - TestEventi\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\daven\Desktop\AivComponent - TestEventi\Aiv.Fast2D.Component\bin\Debug\aiv-audio.dll
+C:\Users\daven\Desktop\AivComponent - TestEventi\Aiv.Fast2D.Component\bin\Debug\aiv-fast2d.dll
+C:\Users\daven\Desktop\AivComponent - TestEventi\Aiv.Fast2D.Component\bin\Debug\NVorbis.dll
+C:\Users\daven\Desktop\AivComponent - TestEventi\Aiv.Fast2D.Component\bin\Debug\OpenTK.dll
+C:\Users\daven\Desktop\AivComponent - TestEventi\Aiv.Fast2D.Component\bin\Debug\System.ValueTuple.dll
+C:\Users\daven\Desktop\AivComponent - TestEventi\Aiv.Fast2D.Component\bin\Debug\NVorbis.xml
+C:\Users\daven\Desktop\AivComponent - TestEventi\Aiv.Fast2D.Component\bin\Debug\OpenTK.pdb
+C:\Users\daven\Desktop\AivComponent - TestEventi\Aiv.Fast2D.Component\bin\Debug\OpenTK.xml
+C:\Users\daven\Desktop\AivComponent - TestEventi\Aiv.Fast2D.Component\bin\Debug\System.ValueTuple.xml
+C:\Users\daven\Desktop\AivComponent - TestEventi\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csprojAssemblyReference.cache
+C:\Users\daven\Desktop\AivComponent - TestEventi\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.CoreCompileInputs.cache
+C:\Users\daven\Desktop\AivComponent - TestEventi\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.CopyComplete
+C:\Users\daven\Desktop\AivComponent - TestEventi\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.exe
+C:\Users\daven\Desktop\AivComponent - TestEventi\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.AssemblyReference.cache
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.CoreCompileInputs.cache
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.exe
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Cell\Cell.png
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_Down.png
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_DownLeft.png
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_DownRight.png
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_Left.png
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_Right.png
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollDown.png
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollDownLeft.png
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollDownRight.png
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollLeft.png
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollRight.png
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollUp.png
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollUpLeft.png
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollUpRight.png
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_Up.png
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_UpLeft.png
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_UpRight.png
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe.config
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\aiv-audio.dll
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\aiv-fast2d.dll
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\NVorbis.dll
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\OpenTK.dll
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\System.ValueTuple.dll
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\NVorbis.xml
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\OpenTK.pdb
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\OpenTK.xml
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\System.ValueTuple.xml
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\PlaceHolder\Player.png
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\PixelPackTOPDOWN8BIT.bmp
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\1.tmx
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\2.tmx
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\3.tmx
+C:\Users\gengi\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\4.tmx
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Cell\Cell.png
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\PixelPackTOPDOWN8BIT.bmp
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\PlaceHolder\Player.png
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_Down.png
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_DownLeft.png
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_DownRight.png
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_Left.png
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_Right.png
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollDown.png
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollDownLeft.png
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollDownRight.png
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollLeft.png
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollRight.png
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollUp.png
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollUpLeft.png
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollUpRight.png
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_Up.png
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_UpLeft.png
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_UpRight.png
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\1.tmx
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\2.tmx
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\3.tmx
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\4.tmx
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe.config
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.pdb
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\aiv-audio.dll
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\aiv-fast2d.dll
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\NVorbis.dll
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\OpenTK.dll
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\System.ValueTuple.dll
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\NVorbis.xml
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\OpenTK.pdb
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\OpenTK.xml
+D:\Progetto finale\Aiv.Fast2D.Component\bin\Debug\System.ValueTuple.xml
+D:\Progetto finale\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.AssemblyReference.cache
+D:\Progetto finale\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.CoreCompileInputs.cache
+D:\Progetto finale\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.exe
+D:\Progetto finale\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Cell\Cell.png
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\PixelPackTOPDOWN8BIT.bmp
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\PlaceHolder\Player.png
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_Down.png
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_DownLeft.png
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_DownRight.png
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_Left.png
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_Right.png
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollDown.png
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollDownLeft.png
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollDownRight.png
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollLeft.png
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollRight.png
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollUp.png
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollUpLeft.png
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollUpRight.png
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_Up.png
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_UpLeft.png
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_UpRight.png
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\1.tmx
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\2.tmx
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\4.tmx
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe.config
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\aiv-audio.dll
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\aiv-fast2d.dll
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\NVorbis.dll
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\OpenTK.dll
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\System.ValueTuple.dll
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\NVorbis.xml
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\OpenTK.pdb
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\OpenTK.xml
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\System.ValueTuple.xml
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.AssemblyReference.cache
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.CoreCompileInputs.cache
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.exe
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\4 - Open.tmx
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\test.tmx
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\16x16_sm.png
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Cell\Cell.png
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\16x16_sm.png
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\PixelPackTOPDOWN8BIT.bmp
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\PlaceHolder\Player.png
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_Down.png
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_DownLeft.png
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_DownRight.png
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_Left.png
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_Right.png
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollDown.png
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollDownLeft.png
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollDownRight.png
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollLeft.png
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollRight.png
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollUp.png
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollUpLeft.png
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_RollUpRight.png
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_Up.png
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_UpLeft.png
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\Character_UpRight.png
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\1.tmx
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\2 - key presa.tmx
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\2.tmx
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\3.tmx
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\4 - Open.tmx
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\4.tmx
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\test.tmx
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe.config
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\aiv-audio.dll
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\aiv-fast2d.dll
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\NVorbis.dll
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\OpenTK.dll
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\System.ValueTuple.dll
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\NVorbis.xml
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\OpenTK.pdb
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\OpenTK.xml
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\System.ValueTuple.xml
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.AssemblyReference.cache
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.CoreCompileInputs.cache
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.exe
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Cell\CellaNera.png
+C:\Users\Davide\OneDrive\Desktop\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\5.tmx
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Cell\CellaNera.png
+C:\Users\gengi\Desktop\progetto finale\Progetto finale\Aiv.Fast2D.Component\bin\Debug\Assets\Level\5.tmx
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\Assets\Cell\Cell.png
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\Assets\Cell\CellaNera.png
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\Assets\Level\16x16_sm.png
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\Assets\Level\PixelPackTOPDOWN8BIT.bmp
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\Assets\Level\1.tmx
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\Assets\Level\2.tmx
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\Assets\Level\4 - Open.tmx
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\Assets\Level\4.tmx
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\Assets\Level\5.tmx
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe.config
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.exe
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\aiv-audio.dll
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\aiv-fast2d.dll
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\NVorbis.dll
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\OpenTK.dll
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\System.ValueTuple.dll
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\NVorbis.xml
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\OpenTK.pdb
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\OpenTK.xml
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\System.ValueTuple.xml
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.AssemblyReference.cache
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.csproj.CoreCompileInputs.cache
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.exe
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\obj\Debug\Aiv.Fast2D.Component.pdb
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\Assets\Player\Movment\provae.png
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\Assets\Key\item8BIT_key.png
+C:\Users\gengi\Desktop\Progetto finale tr\Aiv.Fast2D.Component\bin\Debug\Assets\Fonts\textSheet.png
